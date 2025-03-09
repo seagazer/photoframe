@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoFrame</string>
+    <string name="btn_selector">选择照片</string>
+</resources>
